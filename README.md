@@ -6,13 +6,13 @@ import (
 )
 
 func main() {
-	name := "Samrood Ali"
-	location := "Kerala, India"
-	languages := [5]string{"javascript", "ruby", "python", "go", "shell script"}
-	field := "Engineer"
-	stack := "Agnostic"
+	Name 			:= "Samrood Ali"
+	Location 		:= "India,Earth"
+	Race     		:= "Human"
+	Field 			:= "Engineer"
+	ProgrammingLanguages 	:= "Agnostic"
+	Technologies	 	:= "Agnostic"
 
-	fmt.Println(name, location, languages, field, stack)
         fmt.Println("Have a good day")
 }
 

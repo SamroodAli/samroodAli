@@ -1,4 +1,4 @@
-Learn more about me at [samroodali.me](https://samroodali.me) 👈
+
 ```go
 package main
 

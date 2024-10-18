@@ -30,3 +30,4 @@ func main() {
 - [Enough math for software engineers](https://github.com/SamroodAli/math-research)
 - [Problem solving, DSA and Algo](https://github.com/SamroodAli/problem_solving_dsa_algo_research)
 - [Computer science research](https://github.com/SamroodAli/computer-science-research)
+- [High level system design (hld) research](https://github.com/SamroodAli/system-design-research)

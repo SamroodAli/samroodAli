@@ -62,8 +62,7 @@ Here’s my growing collection of notes, experiments, and deep dives:
 ## 🌐 Connect with Me
 
 * 🔗 Website: [samroodali.com](https://samroodali.com)
-* 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/samroodali/) *(if available)*
-* 🧑‍💻 Always learning, always building.
+* 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/samrood-ali/)
 * 📄 [My articles](https://medium.com/@devsamrood)
 
 ---

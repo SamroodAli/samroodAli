@@ -22,9 +22,13 @@ func main() {
 ```
 
 
-👋 Hi! I’m Samrood Ali, a Software Development Engineer (SDE II) at Peoplegrove, specializing in building and scaling web applications. 
+# 👋 Hi! I’m Samrood Ali.
 
-My journey includes completing an intensive coding bootcamp, working at an early-stage product-based startup, and now contributing to PeopleGrove, an education networking platform similar to LinkedIn. I collaborate with teams to build features from scratch, maintain existing ones, and tackle the challenges of managing a large-scale user base of more than 20 million users.
+**A Software Development Engineer (SDE II) at Peoplegrove**, specializing in building and scaling web applications. 
+
+My journey includes completing an intensive coding bootcamp, working at an early-stage product-based startup, and now contributing to PeopleGrove, an education networking platform similar to LinkedIn. 
+
+I collaborate with teams to build features from scratch, maintain existing ones, and tackle the challenges of managing a large-scale user base of more than 20 million users.
 
 I’m passionate about continuous learning and is always learning and keeping myself up-to date. 
 
